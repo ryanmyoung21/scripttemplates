@@ -1,4 +1,4 @@
-This repository contains 18 Python script templates for common DevOps tasks. These templates are designed to help you automate repetitive tasks, simplify your workflow, and improve your overall DevOps efficiency.
+This repository contains 18 Python script templates for common automation tasks. These templates are designed to help you automate repetitive tasks, simplify your workflow, and improve your overall DevOps efficiency.
 
 Templates
 1. System Information Script Template
